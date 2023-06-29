@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "../javascript/style.css";
+import "../style/style.css";
 import { Button } from "./Button";
 import { Screen } from "./Screen";
 
